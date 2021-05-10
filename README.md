@@ -2,7 +2,7 @@
 
 I made this code following a step by step tutorial made by Kyle... you can find the video in his youtube channel "Web Dev Simplified".
 Link [React Authentication Crash Course With Firebase And Routing](https://www.youtube.com/watch?v=PKwu15ldZ7k&t=2683s)
-I recommend his channel !!! ---> <a href="https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw"><img src="https://image.flaticon.com/icons/png/128/733/733590.png?style=social&amp;maxAge=3600" height="20"></a>
+I recommend his channel---> <a href="https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw"><img src="https://image.flaticon.com/icons/png/128/733/733590.png?style=social&amp;maxAge=3600" height="20"></a>
 
 
 ## What will you find here?
