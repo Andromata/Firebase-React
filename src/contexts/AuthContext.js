@@ -1,11 +1,8 @@
 import React, { useContext, useEffect, useState } from "react";
 import { auth } from "../firebase";
 
-// los contextos permite que el usuario pueda loggearse desde cualquier lugar
-
 const AuthContext = React.createContext();
 
-//funcion para usar el context
 export function useAuth() {
   return useContext(AuthContext);
 }
